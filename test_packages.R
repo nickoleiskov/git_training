@@ -1,6 +1,6 @@
-library(tidyverse)
-library(DBI)
-library(RPostgres)
-#tak for mad
+#HAHAHAHA DU ER BLEVET HACKET HAHAHAHAHA#
 
-# Nickolei HVEM ER DU MAN?????
+
+# EADFSDFG DSFH DFGH DFGH DFGH
+# DSAF GDFSG dsfG DSFG SDFG SDFG DFSg
+# s gfdsg kjsdfg kjsdfng 
